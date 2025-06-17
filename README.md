@@ -1,5 +1,5 @@
 
-# 🎨 Anime Face Generator (GAN)
+# 🎨 Anime Character Generator (GAN)
 
 A deep learning project that generates high-quality anime-style faces using a Generative Adversarial Network (GAN). Built with PyTorch and trained on thousands of anime face images.
 
